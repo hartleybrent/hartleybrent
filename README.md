@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hartleybrent
-- 👀 I’m interested in Networking and Automation
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in Networking, Security, and Automation
+- 🌱 I’m currently learning ... better Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
