@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hartleybrent
-- 👀 I’m interested in Networking, Security, and Automation
-- 🌱 I’m currently learning ... better Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Networking, Security, Linux, and Docker.
+- 🌱 I’m currently learning ... better python.
 
 <!---
 hartleybrent/hartleybrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
